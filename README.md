@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cenan Can Bıkmaz</h1>
-<h3 align="center">I do content on Software Development and Engineering. I really enjoy learning languages, as well as work in Ağteks Co. I also enjoy backend, development, algorithm, problem solving, image processing, etc..</h3>
+<h3 align="center">I do content on Software Development and Engineering. I really enjoy learning languages, as well as work in Ağteks Co. I also enjoy developing backend with C++, algorithm, problem solving, image processing, etc..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cenancan&label=Profile%20views&color=0e75b6&style=flat" alt="cenancan" /> </p>
 
